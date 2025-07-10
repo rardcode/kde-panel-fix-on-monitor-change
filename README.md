@@ -1,5 +1,11 @@
 # 🖥️ KDE Panel Fix on Monitor Change (udev-based solution)
 
+# !! PROBLEM FIXED in Kde 6.4.2 o 6.3.3 !!
+
+https://blogs.kde.org/2025/07/05/this-week-in-plasma-chugging-along/
+
+[...]*Fixed a similar weird bug that could, under certain circumstances, cause your Plasma panels to disappear after the screen they’re displayed on turns off and back on again.*[...]
+
 ## ❓ The Problem
 
 On KDE Plasma (e.g. on openSUSE), when changing monitor configuration — docking/undocking a laptop, plugging/unplugging an external screen — the desktop panel:
